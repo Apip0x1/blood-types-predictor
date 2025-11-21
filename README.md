@@ -14,8 +14,6 @@
 
 * [✨ Deskripsi Proyek](#-deskripsi-proyek)
 * [🚀 Instalasi & Cara Penggunaan](#-instalasi--cara-penggunaan)
-* [🔍 Contoh Penggunaan](#-contoh-penggunaan)
-* [👨‍💻 Kontributor](#-kontributor)
 
 ---
 
@@ -27,9 +25,6 @@ Alat ini memiliki dua mode prediksi:
 1.  **Fenotipe:** Menggunakan Golongan Darah (A, B, O, AB)
 2.  **Genotipe:** Menggunakan Genotipe spesifik ($I^A I^A$, $I^A i$, $i i$, dll.)
 
-[Tambahkan Gambar Kotak Punnett/Ilustrasi di sini jika ada.]
-
----
 
 ## 🚀 Instalasi & Cara Penggunaan
 
